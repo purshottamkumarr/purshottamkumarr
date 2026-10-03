@@ -19,30 +19,6 @@ I work with **Python, SQL, Power BI, Excel, and Machine Learning** to clean, ana
 
 ---
 
-## 🛠️ Skills & Technologies
-
-**📊 Data Analytics**
-
-Python • Pandas • NumPy • SQL • SQL Server • Excel
-
-**📈 Data Visualization**
-
-Power BI • Matplotlib • Seaborn
-
-**🤖 Machine Learning**
-
-Scikit-learn • Regression • Classification • Clustering • NLP
-
-**🧠 Deep Learning**
-
-TensorFlow • Keras • OpenCV • CNN
-
-**🔧 Tools**
-
-Jupyter Notebook • Git • GitHub • VS Code
-
----
-
 ## 📂 Featured Projects
 
 ### 🤖 Machine Learning Projects
@@ -59,32 +35,9 @@ Hands-on projects using **Python, Pandas, NumPy, Matplotlib, and Seaborn** to cl
 
 Interactive dashboards designed to transform business data into meaningful visual insights.
 
----
-
-## 📚 Currently Learning
-
-* Advanced SQL
-* Power BI
-* Statistics for Data Analysis
-* Machine Learning
-* Data Visualization
-* Deep Learning
-
----
-
-## 🎯 Career Goal
-
 > **Learn → Build → Analyze → Improve**
 
 I am continuously building practical projects and improving my technical skills to begin my career in **Data Analytics**.
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-
-💻 **GitHub:** [@purshottamkumarr](https://github.com/purshottamkumarr)
 
 ---
 
